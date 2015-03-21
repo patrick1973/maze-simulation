@@ -1,0 +1,1 @@
+een test om de rechterhand methode te testen om een doolhof op te lossen
